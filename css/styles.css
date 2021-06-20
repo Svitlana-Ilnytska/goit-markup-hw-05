@@ -715,11 +715,12 @@ margin-right: 0;
   display: flex;
   font-style: normal;
   font-weight: normal;
-  /* font-size: 18px;
-  line-height: 1.15; */
+  letter-spacing: 0.03em;
+  font-size: 18px;
+  line-height: 1.5; 
   color:var(--hero-text-color);
   opacity: 1;
-  letter-spacing: 0.03em;
+  
   margin: 0;
 }
 
